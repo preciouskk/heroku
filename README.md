@@ -1,2 +1,4 @@
 # heroku
-tutorial on we hosting
+tutorial on web hosting
+
+Finally done it, Grateful
